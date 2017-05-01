@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorFallback">#89757575</color>
+    <color name="colorFallbackDark">#DD424242</color>
+    <color name="colorFallbackLight">#60BDBDBD</color>
+    <color name="colorLight">#89ffffff</color>
+    <color name="colorDark">#89000000</color>
+    <color name="colorPrimary">#00695C</color>
+    <color name="colorPrimaryDark">#004D40</color>
+    <color name="colorPrimaryLight">#009688</color>
+    <color name="colorAccent">#F57C00</color>
+    <color name="colorAccentDark">#E65100</color>
+    <color name="colorAccentLight">#FF9800</color>
+</resources>
